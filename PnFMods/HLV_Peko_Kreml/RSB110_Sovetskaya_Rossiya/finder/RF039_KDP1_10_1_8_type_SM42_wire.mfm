@@ -1,0 +1,13 @@
+<RF039_KDP1_10_1_8_type_SM42_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/finder/RF039_KDP1_10_1_8_type_SM42_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/finder/RF039_KDP1_10_1_8_type_SM42_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/finder/RF039_KDP1_10_1_8_type_SM42_n.dds	</Texture>
+	</property>
+</RF039_KDP1_10_1_8_type_SM42_wire.mfm>
