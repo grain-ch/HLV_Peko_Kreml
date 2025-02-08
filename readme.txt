@@ -9,7 +9,7 @@ This mod was created based on the following post.
 https://twitter.com/Seo_t/status/1400749358610485248
 
 The creator of this mod is a different person than the one posted above. This mod was created by
-https://forum.worldofwarships.asia/profile/2009452102-grain_unga/
+https://x.com/lfdln_harukawaK
 ==============================
 Change log
 
