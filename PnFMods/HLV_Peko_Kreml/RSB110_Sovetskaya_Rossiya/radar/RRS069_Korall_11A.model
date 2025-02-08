@@ -1,7 +1,6 @@
 <RRS069_Korall_11A.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/radar/lods/RRS069_Korall_11A_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/radar/RRS069_Korall_11A	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/radar/RRS069_Korall_11A.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </RRS069_Korall_11A.model>

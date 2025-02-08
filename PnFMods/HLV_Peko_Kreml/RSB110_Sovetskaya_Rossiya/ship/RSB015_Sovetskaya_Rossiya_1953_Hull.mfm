@@ -34,13 +34,4 @@
 	<property>	g_detailScaleV
 		<Float>	32.0000	</Float>
 	</property>
-	<property>	doubleSided
-		<Bool>	false	</Bool>
-	</property>
-	<property>	alphaTestEnable
-		<Bool>	true	</Bool>
-	</property>
-	<property>	alphaReference
-		<Int>	250	</Int>
-	</property>
 </RSB015_Sovetskaya_Rossiya_1953_Hull.mfm>

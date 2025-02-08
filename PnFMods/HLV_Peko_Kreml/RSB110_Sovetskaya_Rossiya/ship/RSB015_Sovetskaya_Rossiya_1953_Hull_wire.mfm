@@ -7,7 +7,4 @@
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/ship/RSB015_Sovetskaya_Rossiya_1953_Hull_mg.dds	</Texture>
 	</property>
-	<property>	normalMap
-		<Texture>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/ship/RSB015_Sovetskaya_Rossiya_1953_Hull_n.dds	</Texture>
-	</property>
 </RSB015_Sovetskaya_Rossiya_1953_Hull_wire.mfm>

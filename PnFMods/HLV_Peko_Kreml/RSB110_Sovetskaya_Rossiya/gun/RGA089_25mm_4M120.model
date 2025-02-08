@@ -1,7 +1,6 @@
 <RGA089_25mm_4M120.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/gun/lods/RGA089_25mm_4M120_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/gun/RGA089_25mm_4M120	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/gun/RGA089_25mm_4M120.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </RGA089_25mm_4M120.model>

@@ -13,6 +13,9 @@ https://forum.worldofwarships.asia/profile/2009452102-grain_unga/
 ==============================
 Change log
 
+2025/02/08
+update for WoWS 14.1
+
 2022/05/19
 removed image.jpg
 

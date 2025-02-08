@@ -1,7 +1,6 @@
 <RGM129_457mm_48_dead.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/gun/lods/RGM129_457mm_48_dead_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/gun/RGM129_457mm_48_dead	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/gun/RGM129_457mm_48_dead.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </RGM129_457mm_48_dead.model>

@@ -1,7 +1,6 @@
 <RD029_VCU3_Hight_Angle.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/director/lods/RD029_VCU3_Hight_Angle_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/director/RD029_VCU3_Hight_Angle	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/director/RD029_VCU3_Hight_Angle.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </RD029_VCU3_Hight_Angle.model>

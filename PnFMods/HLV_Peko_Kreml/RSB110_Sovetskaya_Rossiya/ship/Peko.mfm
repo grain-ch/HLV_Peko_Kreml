@@ -1,4 +1,4 @@
-<RSB015_Sovetskaya_Rossiya_1953_DeckHouse.mfm>
+<Peko.mfm>
 	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
@@ -34,4 +34,4 @@
 	<property>	g_detailScaleV
 		<Float>	32.0000	</Float>
 	</property> -->
-</RSB015_Sovetskaya_Rossiya_1953_DeckHouse.mfm>
+</Peko.mfm>

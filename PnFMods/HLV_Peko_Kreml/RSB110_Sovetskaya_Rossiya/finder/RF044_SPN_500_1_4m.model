@@ -1,7 +1,6 @@
 <RF044_SPN_500_1_4m.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/finder/lods/RF044_SPN_500_1_4m_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/finder/RF044_SPN_500_1_4m	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/finder/RF044_SPN_500_1_4m.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </RF044_SPN_500_1_4m.model>
