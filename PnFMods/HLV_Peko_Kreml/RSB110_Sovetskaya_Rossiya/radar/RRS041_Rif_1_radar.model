@@ -4,5 +4,6 @@
 		<animation>	content/animation_state_machines/legacy/gameplay/RRS041_Rif_1_radar/RRS041_Rif_1_radar.ssm	</animation>
 	</animations>
 	<dyes />
+	<skeletonExtenders />
 	<metaData>	Wargaming.net	</metaData>
 </RRS041_Rif_1_radar.model>

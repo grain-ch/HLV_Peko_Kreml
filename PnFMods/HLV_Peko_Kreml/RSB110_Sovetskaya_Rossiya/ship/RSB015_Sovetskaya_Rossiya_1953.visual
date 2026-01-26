@@ -78,7 +78,7 @@
 		<abovewaterModel>	true	</abovewaterModel>
 	</properties>
 	<boundingBox>
-		<min>	-1.4678 -0.8867 -9.8786	</min>
+		<min>	-1.4678 -0.8866 -9.8786	</min>
 		<max>	1.4678 3.4316 9.9653	</max>
 	</boundingBox>
 	<renderSets>

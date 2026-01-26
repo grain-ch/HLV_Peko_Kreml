@@ -17,6 +17,51 @@
 					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 				</transform>
 				<node>
+					<identifier>	HP_RGA_27	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	-0.6674 0.4245 -7.2734 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_RGA_28	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	0.6674 0.4245 -7.2734 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_RGA_29	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	-0.2659 0.5180 -9.3536 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_RGA_30	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	0.2659 0.5180 -9.3536 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_RGM_3	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	0.0000 0.4659 -5.3528 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
 					<identifier>	Stern_DeckHouse	</identifier>
 					<transform>
 						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
@@ -78,8 +123,8 @@
 		<abovewaterModel>	true	</abovewaterModel>
 	</properties>
 	<boundingBox>
-		<min>	-1.2618 -0.8464 -9.8187	</min>
-		<max>	1.2426 1.0622 -3.9152	</max>
+		<min>	-1.2617 -0.8464 -9.8186	</min>
+		<max>	1.2425 1.0622 -3.9152	</max>
 	</boundingBox>
 	<renderSets>
 		<renderSet>

@@ -4,5 +4,6 @@
 		<animation>	content/animation_state_machines/legacy/gameplay/RRS073_Vakhta/RRS073_Vakhta.ssm	</animation>
 	</animations>
 	<dyes />
+	<skeletonExtenders />
 	<metaData>	Wargaming.net	</metaData>
 </RRS073_Vakhta.model>

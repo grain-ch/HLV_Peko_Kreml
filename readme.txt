@@ -13,6 +13,9 @@ https://x.com/lfdln_harukawaK
 ==============================
 Change log
 
+2026/01/26
+update for WoWS 15.0
+
 2025/02/08
 update for WoWS 14.1
 

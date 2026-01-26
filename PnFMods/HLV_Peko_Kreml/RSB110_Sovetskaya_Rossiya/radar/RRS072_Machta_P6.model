@@ -2,5 +2,6 @@
 	<visual>	PnFMods/HLV_Peko_Kreml/RSB110_Sovetskaya_Rossiya/radar/RRS072_Machta_P6.visual	</visual>
 	<animations />
 	<dyes />
+	<skeletonExtenders />
 	<metaData>	Wargaming.net	</metaData>
 </RRS072_Machta_P6.model>
